@@ -1,3 +1,6 @@
+!!! Developer options in Android are hidden settings for debugging and advanced customization, 
+enabled by tapping "Build number" seven times under Settings > About phone. !!!!
+
 import os
 import unittest
 from datetime import datetime
